@@ -1,2 +1,3 @@
 netdata/netdata:stable
 cloudflare/cloudflared:latest
+portainer/portainer-ce:latest
