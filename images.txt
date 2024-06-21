@@ -1,3 +1,4 @@
 netdata/netdata:stable
 cloudflare/cloudflared:latest
 portainer/portainer-ce:latest
+gitlab/gitlab-ce
