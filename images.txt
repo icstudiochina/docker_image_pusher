@@ -5,3 +5,4 @@ gitea/gitea:latest-rootless
 linkease/ddnsto
 jeessy/ddns-go
 mikolatero/vlmcsd
+mysql/mysql:8
