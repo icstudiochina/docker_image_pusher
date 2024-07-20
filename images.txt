@@ -1,7 +1,7 @@
 netdata/netdata:stable
 cloudflare/cloudflared:latest
 portainer/portainer-ce:latest
-gitlab/gitlab-ce
+gitea/gitea:latest-rootless
 linkease/ddnsto
 jeessy/ddns-go
 mikolatero/vlmcsd
