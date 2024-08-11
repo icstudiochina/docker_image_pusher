@@ -8,3 +8,4 @@ mikolatero/vlmcsd
 docker.io/mysql:8.0
 jellyfin/jellyfin
 vaultwarden/server:latest
+
