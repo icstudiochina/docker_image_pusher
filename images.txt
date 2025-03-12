@@ -9,3 +9,4 @@ docker.io/mysql:8.0
 jellyfin/jellyfin
 vaultwarden/server:latest
 halohub/halo:2.20
+rustdesk/rustdesk-server-pro:latest
