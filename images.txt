@@ -12,3 +12,4 @@ halohub/halo:2.20
 rustdesk/rustdesk-server:latest
 xream/sub-store
 easytier/easytier:latest
+listmonk/listmonk
